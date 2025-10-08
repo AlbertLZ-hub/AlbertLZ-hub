@@ -36,13 +36,6 @@
 
 ---
 
-## 📊 Mis estadísticas de GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<TU-USUARIO>&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<TU-USUARIO>&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Cómo contactarme
 
 📧 [albertlopezzarzoso@gmail.com]  
