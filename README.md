@@ -7,8 +7,8 @@
 
 ## 🧠 Sobre mí
 
-- 🌱 Actualmente aprendiendo **desarrollo multiplataforma** con **Java**.  
-- 🧰 Me interesa todo lo relacionado con **bases de datos**.  
+- 🌱 Actualmente aprendiendo **desarrollo multiplataforma**.  
+- 🧰 Me interesa todo lo relacionado con **bases de datos y programación**.  
 - 🧑‍💻 Me gusta crear proyectos que mezclen **utilidad y buen diseño**.  
 - ⚡ En mi tiempo libre me gusta explorar nuevas tecnologías y aprender algo nuevo cada día.
 
