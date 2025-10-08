@@ -47,7 +47,6 @@
 
 📧 [albertlopezzarzoso@gmail.com]  
 🌐 [https://www.linkedin.com/in/albert-lopez-zarzoso-b36708354/]  
-🐙 [Tu perfil de GitHub](https://github.com/<TU-USUARIO>)
 
 ---
 
