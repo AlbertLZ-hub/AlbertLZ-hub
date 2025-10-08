@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy <Albert>
+# 👋 ¡Hola! Soy Albert
 
 🎓 Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 🚀 Siempre aprendiendo y mejorando mis habilidades en programación y diseño de software.
